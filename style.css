@@ -1,6 +1,6 @@
 body {
   font-family: "Dancing Script", sans-serif;
-  background-color: rgb(196, 190, 154);
+  background-color: rgb(53, 52, 46);
 }
 h1,
 h2,
@@ -12,7 +12,7 @@ h3 {
 
 h1 {
   font-size: 40px;
-  color: rgb(255, 255, 255);
+  color: rgb(233, 224, 224);
   margin: 20px;
   line-height: 120%;
   /*
@@ -26,12 +26,7 @@ h1 {
 /* fin du reset de meyer */
 
 img {
-  width: 50%;
-  height: auto;
-  line-height: 120%;
-  margin-left: 25%;
-  margin-top: 5%;
-  text-align: center;
+  margin-top: 20px;
 }
 * {
   box-sizing: border-box;
@@ -41,11 +36,8 @@ li {
   margin-left: 50px;
 }
 main {
-  color: aliceblue;
+  color: rgb(210, 217, 223);
 }
 head {
   text-align: left;
-}
-img {
-  width: 30%;
 }
